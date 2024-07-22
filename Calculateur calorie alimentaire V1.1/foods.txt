@@ -1,0 +1,647 @@
+
+Abats divers (frits):270:16:0:22
+Abricot:48:0.5:11.1:0.1
+Abricots au sirop léger:69.5:0.5:16:0.1
+Agneau (grillé):294:25:0:21
+Ail en poudre:331:16.6:72.7:0.7
+Ail:149:6.4:33.1:0.5
+Airelles:66:0.5:15:0.5
+Amande:579:21:22:49
+Amandes:579:21.2:21.6:49.9
+Amarante (cuit):102:3.8:19:1.6
+Ananas au sirop léger:59:0.3:14:0.2
+Ananas:50:0.5:13.1:0.1
+Ananas:51:0.5:12:0.2
+Anchois (en boîte):200:20:0:13
+Anguille:255:18.5:0:21
+Artichaut:35:2:5.5:0.2
+Artichaut:47:3.3:10.5:0.2
+Asperge:25:2.2:3:0.2
+Asperges:20:2.2:3.9:0.1
+Aubergine:24:1.2:5:0.2
+Aubergine:25:1:6:0.2
+Autres vinaigres:20:0.0:5:0.0
+Avocat:160:2:9:15
+Avoine (crue):380:13:66:7
+Avoine (cuite):145:4:25:2.5
+Avoine (flocon):389:11:66.3:7
+Avoine (son):246:17.3:66.2:7.03
+Avoine:360:14:55:7
+Bacon (cuit):541:37:0.1:42
+Bacon:342:23.5:0.75:27.5
+Baguette:255.5:9.25:54:1.25
+Banane:89:1.1:22.8:0.3
+Barre chocolatée:520:8:60:30
+Barre céréalière:400:5:67:16
+Barre diététique:270:3:28:20
+Barre énergétique:470:6:58:27
+Basilic:23:3.2:2.7:0.6
+Betterave:43:1.6:9.6:0.2
+Beurre allégé:405:1:3.5:41
+Beurre d'arachide:600:25:10:51
+Beurre de cacahuètes:588:25.1:20.9:50.0
+Beurre:717:0.9:0.1:81.1
+Beurre:738:0.25:0.25:82
+Bigarreaux:77:1:17:0.5
+Biscotte:408.5:10.5:73:4.5
+Biscuit petit - déjeuner:400:7:67:16
+Biscuit sec:470:6:68:20
+Bière sans alcool:17:0.5:3.6:0
+Bière:43:0.5:3.6:0
+Blette:26:2.1:3.5:0.3
+Bleuet:42:0.7:10.2:0.6
+Blé (cru):340:12:71:1
+Blé (cuit):140:5:30:0.5
+Blé (germes):330:26:34:2.5
+Blé soufflé sucré:400:8:87.5:2
+Blé:335:16:74.5:1.5
+Boudin blanc:303:17.5:1:24
+Boudin noir:353.5:15:3.5:32
+Boulghour:83:3.1:18.6:0.2
+Boulgour (cru):350:12:73:1
+Boulgour (cuit):85:3:18:0.2
+Brandade de morue:170:18:5:10
+Bricks:345:10:75:0.5
+Brie:300:20:0:25
+Brioche:315:7.5:54:7.6
+Brocoli:33:3.6:2.5:0.2
+Brocoli:34:2.8:7:0.4
+Brownie:400:4:63:26
+Brugnon ou nectarine:54:1:12.5:0.0
+Bœuf (grillé):250:26:0:15
+Bœuf bouilli:170:29:0:7
+Bœuf braisé:225:32:2:8
+Bœuf en daube:168:27:3.5:6
+Bœuf rôti:190:31:0:7
+Bœuf sauce tomate:118:17:4.5:3
+Bœuf sauté aux oignons:132:17:4:5
+Cabillaud:70:16:0:0.5
+Cabillaud:82:18.5:0:0.7
+Cacahuète (beurre):588:25:16:50
+Cacahuètes:567:25.8:16.1:49.2
+Cacahuètes:567:26:16:49
+Café non sucré:0:0.0:0.0:0.0
+Cake:376:5.5:59:16
+Calamar:82:16:0:1.5
+Canard (grillé):337:19:0:28.3
+Canard rôti:337:27:0:25
+Canneberge:46:0.4:12.2:0.1
+Cantal:350:25:0:28
+Carambole:31:1:6.7:0.3
+Caramel (100 g):350:0.0:81:0.0
+Carbonade:185:27:5:6
+Carotte:36:0.6:6.5:0.2
+Carottes Vichy:41:0.9:9.6:0.2
+Carpe:120:19:0:5
+Cassis:41:1.3:9:0.0
+Cassis:63:1.4:15.4:0.4
+Cassoulet:155:15:7:9
+Cerise:50:1:12:0.3
+Cerise:77:1:17:0.5
+Cervelle:143:11:0:10
+Champignon:22:3.5:0.5:0.0
+Champignons:22:3.1:3.3:0.3
+Chapelure:370:12:73:2
+Chapon:205:27.5:0:10
+Chausson aux pommes:390:1.3:74:9.7
+Cheeseburger:406:20:23:26
+Cheval:112:21:0:3
+Chipolata:350:14:0.8:30
+Chips de légumes:500:4:57:28
+Chips de maïs:520:6:51:31
+Chips de patates douces:530:6:54:34
+Chips de pomme:300:1:70:1
+Chips de pommes de terre:540:6:52:34
+Chips:582:5.5:50:40
+Chocolat (100 g):545:5:56:32
+Chocolat au lait (100 g):540:8:57:29
+Chocolat blanc (100 g):590:7:56:32
+Chou blanc:20:2:3:0.1
+Chou de Bruxelles:40:4:3:0.4
+Chou rouge:31:1.4:7.4:0.2
+Chou-fleur:25:1.9:4.9:0.3
+Chou:20:2:3:0.1
+Choucroute garnie:117:14:5:4
+Choucroute:20:2:3:0.1
+Choux de Bruxelles:43:3.4:8.95:0.37
+Choux divers:20:2:3:0.1
+Châtaigne:180:2:36.5:3
+Châtaigne:213:2.4:45.5:2.2
+Chèvre:400:25:0:35
+Ciboulette:30:3.3:4.4:0.7
+Citron jus:28:0.0:7:0.0
+Citron vert ou linette:50:0.5:12:0.0
+Citron:29:0.0:7.5:0.0
+Citrouille:30:1.3:6:0.0
+Clafoutis:270:9:48:5
+Clémentine:47:0.9:12:0.2
+Clémentines:46:0.5:11:0.0
+Coco (déshydraté):660:7.3:23.6:65.8
+Coing:28:0.3:6.3:0.2
+Colin:80:18.5:0:0.8
+Compote allégée:71:0.3:17:0.2
+Compotes de fruits:100:0.3:25:0.2
+Comté:400:30:0:32
+Concombre:10:0.5:1.5:0.0
+Concombre:16:0.7:3.6:0.1
+Confit d’oie:429:12:1.5:41
+Confiture (100 g):280:0:68:0
+Coq au vin:95:9:4:4
+Coriandre (feuilles):23:2.1:3.7:0.5
+Corn0.0flakes:380:8:84:1.4
+Cornichon:10:0.5:1.5:0.0
+Courge:30:1.3:6:0.0
+Courgette:14:1:2:0.1
+Courgette:17:1.2:3.1:0.3
+Couscous (cru):370:13:78:1
+Couscous (cuit):110:3:23:0.2
+Couscous royal:185:16:8.5:10
+Crabe:97:21:0.6:1.5
+Crackers:360:10:77:1.4
+Cracotte:400:11:76:2
+Cresson:11:2.3:1.4:0.7
+Crevette:85:18:0.8:1.2
+Crevettes:90:18:1:1
+Croissant au beurre:210:3.7:29:8.8
+Croissant ordinaire:125:3.7:22:2.4
+Croque0.0monsieur:336:14:29.5:18
+Croûton:450:12:61:11
+Crème dessert:140:2:17:5
+Crème fraîche:348:2.9:3.7:35
+Crème glacée (base):210:3:23:12
+Crème glacée (légère):120:3:20:3
+Crème liquide:280:2:3:28
+Crème pâtissière:110:3:16:5
+Crème végétale:160:0:3:16
+Crème:345:2.8:2.7:35
+Crêpe au froment:170:3:29:5
+Crêpe au sarrasin:130:5:17:3
+Céleri - branche:20:1:2:0.2
+Céleri - rave:42:1:7.5:0.5
+Céleri:16:0.7:2.8:0.2
+Céréales (all bran):330:12:68:4
+Céréales (corn flakes):370:8:81:3
+Céréales (cruesli):440:7:65:18
+Céréales (fitness):360:9:66:5
+Céréales (muesli):400:11:63:9
+Céréales (special K):360:8:76:1.6
+Cœur:120:17:0:5
+Danette au chocolat:144:3.2:20.2:5.4
+Datte:277:1.8:75:0.2
+Daurade:87:18:0:1.5
+Dinde (blanc):125:30:0:1
+Dinde (grillée):189:29:0:7
+Dinde:135:29:0:1.5
+Edam:357:25:0:28
+Emmental:400:28:1.5:32
+Endive:17:1:3.4:0.2
+Escalope de veau à la crème:147:16:2:8
+Échalote:72:2.5:17.4:0.1
+Écrevisses:92:17:0.5:1
+Épeautre (cru):340:14:60:2
+Épeautre (cuit):120:4:25:0.5
+Épinard:20:3.3:0.6:0.4
+Épinards:23:2.9:3.6:0.4
+Farine de blé blanche:363:10:78.5:1
+Farine de blé complet:340:11.5:69:2
+Farine de maïs:361:9.5:76:4.5
+Farine de riz:370:7.5:80:1
+Farine de sarrasin:327:10.5:63.5:2.3
+Farine de seigle:336:11:69:1.8
+Farine de soja:417:37:20:21
+Farine d’avoine:353:12:65:5
+Farine d’orge:352:11.5:72:2
+Fenouil:20:1:2:0.3
+Fenouil:31:1.2:7.3:0.2
+Feuilles de brick:345:10:76:0.5
+Feuilles de filo:297:7.1:53.6:6
+Figue fraîche:74:0.8:19.2:0.3
+Figue:74:0.8:19.2:0.3
+Figues (séchées):249:3.3:63.9:0.9
+Filet de bœuf aux champignons:144:21:3:5
+Filet de bœuf en croûte:320:25:6.5:21
+Filet de bœuf sauce madère:160:25:3:5
+Flageolets cuits:120:8:21:0.5
+Flan type Ancel (lait 1/2 écrémé):79:3.3:11.7:2.1
+Flan:125:3:20:6
+Flocon d'avoine:360:14:55:7
+Flocon d'avoine:389:13.5:66:6.9
+Flocon de pommes de terre:365:8:81:1
+Foie de porc:140:22:2.5:5
+Foie de veau:182:24:5:7
+Foie gras:462:11:1:44
+Foie:137:20:0:5
+Fraise:32:0.7:7.7:0.3
+Fraise:32:0.7:7.7:0.3
+Framboise:52:1:5.4:0.7
+Frites allégées:233:4:34:9
+Frites:400:5:52:19
+Fromage (Cheddar):403:24.9:1.3:33.1
+Fromage blanc:55:7:1:3
+Fromage bleu:350:25:0:29
+Fromage de chèvre frais:230:18:0:19
+Fromage de vache:290:23:0.1:21
+Fromage fondu:310:13:4:24
+Fromage frais:250:15:0:21
+Fromage râpé:400:30:0.1:32
+Fromage st0.0moret:160:7:3:15
+Fromage type cottage:70:10:1.5:1
+Fromage type kiri:280:6:5:24
+Fruits de la passion:36:3:6:0.0
+Féculent (pâtes, riz):350:12:70:1.5
+Galanga:67:1.2:16.2:0.2
+Galette des rois:300:6:38:14
+Gingembre (confit):60:0.6:14.1:0.5
+Gingembre frais:80:1.8:17.8:0.8
+Gingembre:80:1.8:17.8:0.8
+Glace aux fruits:110:1:28:0
+Glace sorbets aux fruits:110:0.5:26:0.5
+Glaces aux œufs:130:3.5:20:4
+Gombo:20:1.9:3.4:0.2
+Gouda:350:25:0:28
+Gousses de vanille:288:2:12:6
+Goyave:68:0.5:17:0.5
+Goyave:68:2.6:14.3:0.9
+Graine de courge:574:24:11:48
+Graine de sésame:573:18:24:50
+Graine de tournesol:584:24:20:51
+Graines de chia:486:16.5:42.1:30.7
+Graines de lin:534:18.3:28.9:42.2
+Gratin dauphinois:184:4:14:13
+Gratin de macaronis:186:7:10:16
+Gratin de pommes de terre:119:3:7:11
+Grenade:65:0.5:15:0.3
+Grenade:83:1.6:18.7:1.2
+Griottes:77:1:17:0.5
+Gros pois cuits:80:6:10:0.5
+Groseille à maquereau:44:0.8:7.7:0.6
+Groseille:28:1:5:0.4
+Groseille:31:0.8:7.7:0.2
+Gruyère:400:28:0.1:33
+Gâteaux Secs salés:448:9:76:12
+Gésier:112:18:0:4
+Hachis parmentier:130:9:7:7
+Hamburger:560:15:23.5:14
+Hareng (fumé):217:25:0:13.8
+Hareng:225:18.5:0:17
+Haricot beurre:25:1.8:3:0.2
+Haricot blanc cuit:100:6.5:17.5:0.5
+Haricot sec cuit:100:6.5:17.5:0.5
+Haricot vert:25:1.8:3:0.2
+Haricot vert:31:2:4.7:0.2
+Haricots blancs cuits:180:9:25:0.7
+Haricots rouges cuits:117:8:21.5:0.6
+Homard:90:17.5:0:1.5
+Huile (arachide):900:0.5:0:100
+Huile (maïs):900:0.5:0:100
+Huile (noix):900:0.5:0:100
+Huile (olive):900:0.5:0:100
+Huile (palme):900:0.5:0:100
+Huile (pépins de raisin):900:0.5:0:100
+Huile (tournesol):900:0.5:0:100
+Huile d'olive:884:0:0:100
+Huile d'olive:900:0:0:100
+Huile de colza:900:0:0:100
+Huile de noisette:930:0:0:100
+Huile de noix:900:0:0:100
+Huile de tournesol:900:0:0:100
+Huîtres:55:10:3.5:1.5
+Isolat:425:80:3:7
+Jambon cru:198:27:0:10
+Jambon cuit:141:20:0:6
+Jambon:290:18:0:23
+Jambonneau:198:27:0:10
+Jarret de veau aux petits légumes:116:18:4:5
+Jus de carotte:24:0.0:6:0.0
+Jus de carotte:40:0.9:9.3:0.2
+Jus de pomme:46:0.1:11.3:0.1
+Jus de tomate:20:1:3.2:0.2
+Kaki:81:0.6:21:0.2
+Ketchup:102:1.2:23.6:0.1
+Ketchup:120:1:25:23
+Kiwi:57:1:12:5
+Kiwi:61:1.1:14.7:0.5
+Lait (entier):61:3.2:4.8:3.3
+Lait concentré sucré (100 g):330:8:58:8
+Lait concentré:325:8:28:9
+Lait d'amande:13:0.5:0.6:1.1
+Lait de chèvre:69:3.6:4.5:4.1
+Lait de coco:230:2.3:5.5:23.8
+Lait demi - écrémé:46:5:6:1.5
+Lait entier:66:3.5:5.5:3.6
+Lait écrémé:34:3.4:5.3:0.1
+Laitue:15:1:1:0.0
+Langoustine:84:17:0:1.5
+Langue:250:16:0:22
+Lapin:150:29:0:4
+Lardons:400:22:0.5:34
+Lasagnes:176:10:12:12
+Lentilles (crues):353:25.8:60.1:1.1
+Lentilles (cuites):116:9:20:0.4
+Lieu:85:18.5:0:1
+Litchi:66:0.8:16.5:0.4
+Litchi:73:0.5:17:0.3
+Lièvre:112:22:0:2.5
+Lotte:85:18:0:1
+Macaronis au fromage:184:7:10:16
+Madeleine:360:6:56:17
+Magret de canard:280:20:1:22
+Mandarine:46:0.5:11:0.0
+Mangue:60:0.8:15:0.4
+Mangue:63:0.5:15:0.0
+Maquereau:180:18:0:12
+Maquereau:205:18.6:0:13.9
+Margarine allégée:450:0.5:2:50
+Margarine:720:0.5:1:80
+Marrons (purée):211:4:42:3
+Marrons:180:2:36.5:3
+Mayonnaise:680:0.5:2.4:75
+Mayonnaise:720:0:4:80
+Maïs (cuit):96:3.4:21:1.5
+Maïs (en conserve):85:2:17:1
+Maïs doux (cru):370:10:70:4
+Maïs soufflé:480:10:64:20
+Melon:34:0.8:8.2:0.2
+Merlu:90:16.4:0:2.3
+Miel (100 g):320:0.0:80:0.0
+Miel:304:0.3:82.4:0
+Millet (cru):370:12:65:4
+Millet (cuit):120:3:23:1
+Mimolette:370:25:0:29
+Morue (séchée):305:67:1:2
+Morue à l’aïoli:85:13:3:3
+Moules:70:10:4.5:2
+Moussaka:140:12:7:5
+Moutarde:80:8:3:5
+Mouton:315:17:0:28
+Mozzarella:250:18:2:20
+Moût de raisin:25:0.0:6:0.0
+Muesli:397:10:65:12
+Myrtille:40:1:8:0.0
+Myrtille:57:0.7:14.5:0.3
+Mâche:19:1.5:2:0.0
+Mûre:36:1.5:6:0.0
+Mûres:43:1.4:9.6:0.5
+Navet:20:1:2.5:0.2
+Navet:28:0.9:6.3:0.1
+Nectarine:54:1:12.5:0.0
+Noisettes:628:15:16.7:60.8
+Noisettes:650:16:13:61
+Noix de cajou:543:18.2:30.2:43.8
+Noix de cajou:600:20:30:45
+Noix:654:15.2:13.7:65.2
+Noix:655:15:13:66
+Oeuf au plat:120:13:0:9.5
+Oeuf brouillé:145:13:1:10
+Oeuf dur:155:13:1:11.3
+Oeuf mollet:165:14:1:11
+Oeuf à la coque:155:12:1:10
+Oeuf:150:13:1:11
+Œuf dur:78:6.3:0.6:5.3
+Œufs de caille:158:13:1.2:11.1
+Oignon:30:1:5.5:0.3
+Oignon:40:1.1:9.3:0.1
+Olives noires:180:2:4:12
+Olives vertes:140:1:5:16
+Orange jus:40:0.7:9.3:0
+Orange sanguine:45:1:10:0
+Orange:45:1:10:0
+Orange:47:0.9:11.8:0.1
+Orge (cru):320:11:66:2
+Orge (cuit):95:3:21:0.2
+Orge (pain):247:6.5:53:1
+Orge germée (malt):326:11:67:2
+Orge perlée:356:8.5:78:1.1
+Pain (complet):247:12.5:41.4:4.2
+Pain au chocolat:350:8:51:15
+Pain aux céréales:250:9:41:6
+Pain blanc (ficelle):275:8.5:58:1
+Pain blanc:240:9:45:2
+Pain complet:240:9:45:2
+Pain d'épice:336:7:68:4
+Pain d'épices:340:6:70:7
+Pain de mie complet:250:9:41:6
+Pain de mie nature:250:9:41:6
+Pain de mie:292:9:55:4
+Pain de seigle:250:8:50:1
+Pain de son:257:13:40:5
+Pain grillé complet:260:10:54:2
+Pain grillé:356:10:70:4
+Pain sec:400:14:70:4
+Pain seigle:241:7:51:1
+Pamplemousse jus:36:0.0:9:0
+Pamplemousse:32:0.6:8.1:0.1
+Pamplemousse:42:0.6:9.5:0
+Panais:75:1.2:18:0.3
+Pancake:200:6:30:6
+Panure:360:13:62:3
+Papaye:38:0.5:7:0
+Parmesan:400:30:0:32
+Pastèque:30:0.5:6.5:0
+Pastèque:30:0.6:7.6:0.2
+Patate douce:86:1.6:20.1:0.1
+Pate brisée:337:4.5:37:19
+Pate feuilletée:410:4.6:35:28
+Pate sablée:436:6:58:20
+Paté:350:16:1:31
+Perche:80:18.5:0:0.5
+Petit beurre:470:7:67:19
+Petit pois cuits:85:6:10:0.5
+Petit0.0pois:60:5:9:0.4
+Petits beurre:400:7:75:8
+Petits pois carottes:50:4:5.5:1
+Petits pois:60:5:9:0.4
+Petits pois:81:5.4:14.5:0.4
+Pied de porc:168:28:0:6
+Pied de veau:168:28:0:6
+Pigeonneau:200:21:0:12
+Pignons de pin:650:14:8:64
+Pilpil de blé:317:12:65:1
+Pim's:390:4:79:6
+Pistache:557:20.6:27.5:44.4
+Pistache:600:20:10:55
+Poire au sirop léger:74:0.4:17:0.3
+Poire jus:60:0.0:15:0
+Poire:57:0.4:15.2:0.1
+Poireau:32:1:6:0.4
+Poireau:61:1.5:12.4:0.3
+Poireaux à la crème:82:1.5:2.5:7
+Poires:47:0.3:11:0
+Pois cassés cuits:125:8.5:22:0.3
+Pois chiche cuits:144:8:22:2.6
+Pois chiche:164:8.9:27.2:2.6
+Pois chiche:500:25:15:35
+Pois mange-tout:42:2.8:7.5:0.3
+Pois secs (à réhydrater):298:23:44:1.2
+Poivron:20:1:3:0
+Poivron:26:1:6:0.3
+Polenta (crue):350:7:77:1
+Polenta (cuite):85:1.5:19:0.4
+Pomme de terre:77:2:17.5:0.1
+Pomme de terre:84:1.2:19.3:0.1
+Pomme jus:46:0.0:11.5:0
+Pomme:47:0.3:11:0
+Pomme:52:0.3:14:0.2
+Pomélo:32:0.6:8.1:0.1
+Pop0.0corn:390:11:76:5
+Porc (grillé):242:27.3:0:14
+Potiron:30:1.3:6:0
+Poule rôtie:148:27:0:5
+Poule:140:26:0:4
+Poulet (grillé):165:31:0:3.6
+Poulet rôti:148:27:0:5
+Poulet à la crème:149:21:1:8
+Poulet:135:29:0:1.5
+Pousses de soja:38:3.5:3:0.6
+Praliné (100 g):540:8:55:32
+Prune:46:0.7:11.4:0.3
+Prune:50:0.6:11.5:0
+Pruneau jus:68:0.3:18:0.1
+Purée de marrons:211:4:42:3
+Purée de p0.0 de terre maison:88:2.5:14:2.4
+Purée de petit0.0pois:58:7.2:5.5:0.7
+Pâte à tartiner (100 g):530:4:55:31
+Pâtes (crues):350:13:71:2
+Pâtes (cuites):150:5:30:0.8
+Pâtes (sèches):350:12:70:1.5
+Pâtes de blé entier:124:5.5:25:0.9
+Pâtes:158:5.8:31.2:1.1
+Pâté de foie:314:13:3.5:29
+Pâté de lapin:294:15:1.5:26
+Pâté de volaille:331:10:1:31
+Pâté:350:16:1:31
+Pétales de maïs:380:8:84:1.4
+Pêche au sirop léger:71:0.6:17:0.3
+Pêche jus:52:0.0:13:0
+Pêche:39:0.9:9.5:0.3
+Pêche:42:1:10:0
+Quenelles de brochet:184:10:6:12
+Quinoa (cru):370:14:64:6
+Quinoa (cuit):120:4:21:1.9
+Quinoa:368:14.1:64:6.1
+Quinoa:400:15:65:8
+Racine de lotus:74:2.6:17.2:0.1
+Radicchio:23:1.4:4.5:0.2
+Radis:16:1:2.5:0.1
+Radis:20:1:2.5:0.2
+Ragoût de mouton:172:25:5:6
+Raie:70:16.5:0:1
+Raisin jus:68:0.0:17:0
+Raisin:69:0.6:15.5:0.3
+Raisin:73:0.6:16.5:0
+Rascasse:70:16.5:0:1
+Reine0.0Claude:50:0.6:11.5:0
+Rhubarbe:21:0.9:4.5:0.2
+Riz (cru):350:7:80:1.2
+Riz (cuit):110:2.5:25:0.3
+Riz (cuit):130:2.7:28.7:0.3
+Riz au lait:135:3:24:3
+Riz basmati (cru):360:7.1:79:1.1
+Riz basmati (cuit):130:2.5:28:0.5
+Riz blanc cuit:110:2:25.4:0.1
+Riz complet (cru):360:7.5:72:2.7
+Riz complet (cuit):130:2.7:27:0.9
+Riz complet:111:2.6:23:0.9
+Riz complet:400:8:85:3
+Riz noir (cru):360:10:75:4
+Riz noir (cuit):160:4:34:1
+Riz soufflé:417:6:96:1
+Rognon:150:27:0:4
+Roquefort:350:25:0:30
+Réglisse (confiserie):380:1:94:0
+Rôti de porc:270:32:0:15
+Saindoux:896:1:99:0
+Saindoux:900:0:0:100
+Saint0.0Nectaire:350:25:0:28
+Salade verte:15:1.4:2.9:0.2
+Salade:15:1:1:0
+Salsifi:82:3.3:18.6:0.2
+Sanglier:125:26:0:3
+Sardine:150:18:0:8.5
+Sardines (en boîte):200:20:0:13
+Sarrasin (cru):330:12:70:3
+Sarrasin (cuit):90:3:18:0.7
+Sarrasin:335:12.6:70.6:2.3
+Sauce soja:60:6:4:0
+Saucisse de Francfort:350:14:0:32
+Saucisse fumée:320:11:1:31
+Saucisse:295:11:1:27
+Saucisson de Paris:405:17:2:37
+Saucisson sec:457:27:1:40
+Saucisson à l’ail:337:16:3:28
+Saucisson:450:22:1:40
+Saumon (grillé):206:22.1:0:12.4
+Saumon:180:18.5:0:11.5
+Sauté de porc:260:32:0:14
+Sauté de veau:138:20:4:5
+Sauté d’agneau:200:28:3:9
+Seigle (cru):335:10:71:1
+Seigle (cuit):67:2.1:13.6:0.4
+Seigle (cuit):85:3:18:0.2
+Semoule (crue):350:12:70:1.2
+Semoule (cuite):110:3:20:0.4
+Semoule de mais:355:12.5:74:1
+Semoules cuites:110:3.5:23.5:0.2
+Skyr:60:11:3.6:0.2
+Sodas:44:0.0:11:0
+Soja (cuit):173:16.6:9.9:8.7
+Soja (grains):446:36.5:25:20
+Sole:90:18:0:1.5
+Soupe de bœuf aux légumes:32:2:5:1
+Soupe de poisson:26:4:3:0.5
+Spaghettis cuits:110:3.5:23.5:0.2
+St0.0nectaire:350:25:0:28
+Steak au poivre:145:22:2:6
+Sureau:73:0.7:18.4:0.5
+Surimi:104:12:14:0.4
+Sésame:600:20:10:55
+Tagliatelles cuites:110:3.5:23.5:0.2
+Tapioca:384:0.5:95:0.2
+Tarte au citron meringuée:300:3:48:16
+Tarte au fraises:230:3:39:9
+Tarte aux pommes:270:3:44:11
+Tarte tatin:270:3:37:15
+Tartelette aux fruits:210:2:28:10
+Tartelette à la fraise:200:2:26:9
+Thon (en conserve):116:26:0:1
+Thon au naturel (en boîte):130:26:0:1
+Thon à l'huile (en boîte):260:25:0:18
+Thon:160:28:0:4
+Thé non sucré:0:0.0:0.0:0.0
+Tilapia:96:20.1:0:1.7
+Tisanes:0:0.0:0.0:0.0
+Tofu:76:8:1.9:4.8
+Tomate:15:0.8:2.5:0
+Tomate:18:0.9:3.9:0.2
+Topinambour:31:1.8:3.5:0
+Topinambour:73:2:17:0.1
+Tournesol:500:25:15:40
+Truffes au chocolat:577:3:40:45
+Truite:150:21:0:6
+Tuiles (petits fours):360:8:64:8
+Turbot:140:18:0:7
+Turbot:97:19.7:0:1.8
+Vanille:288:2:12:6
+Veau (côtes rôties):210:29:0:10
+Veau (côtes):190:27:0:9
+Veau (rôti):170:30:0:5
+Veau (épaule):145:23:0:5
+Viande hachée à 5 % MG:180:18.5:0:11
+Viennoiserie chocolat:330:6:50:18
+Viennoiserie fruit:340:6:52:15
+Vin blanc:83:0.1:2.6:0
+Vin rouge:85:0.1:2.6:0
+Vinaigre balsamique:21:0:4.5:0
+Vinaigre de cidre:18:0:0.5:0
+Vinaigre de vin:15:0:0.5:0
+Vinaigrette:400:0:5:40
+Volaille:176:21:0:10
+Waterzooï (soupe de légumes):40:1:6.5:0.5
+Yaourt (nature):61:3.5:4.7:3.3
+Yaourt aux fruits:100:3:15:3.5
+Yaourt de chèvre:105:7:7:4.5
+Yaourt de soja:55:3:5:1.5
+Yaourt de vache:60:3.5:4.5:3.3
+Yaourt nature:60:4:4.5:3.2
+
+
