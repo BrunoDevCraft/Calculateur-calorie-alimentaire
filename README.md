@@ -55,8 +55,9 @@ Il fournit une analyse détaillée des calories, protéines, glucides et lipides
 
 ## Fichiers de Données
 
-- **foods.txt** : Contient les informations nutritionnelles des aliments.
 - **listing aliment.txt** : Contient une liste des aliments pour l'autocomplétion.
+- **foods.txt** : Contient les informations nutritionnelles des aliments.
+                  ATTENTION: En cours de conception, plusieurs sources différentes peuvent faire varier les résultats.
 
 ## Informations Supplémentaires
 
