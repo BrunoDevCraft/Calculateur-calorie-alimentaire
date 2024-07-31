@@ -57,18 +57,23 @@ Il fournit une analyse détaillée des calories, protéines, glucides et lipides
 
 - **listing aliment.txt** : Contient une liste des aliments pour l'autocomplétion.
 - **foods.txt** : Contient les informations nutritionnelles des aliments.                                                 
-                  ATTENTION: En cours de conception, plusieurs sources différentes peuvent faire varier les résultats. 
+                  ATTENTION: En cours de conception, plusieurs sources différentes peuvent faire varier les résultats.
+
+                  Lorsque les valeurs sont 0.5 ou 0.85, référez-vous au 'listing aliment.txt' pour savoir si elles sont 
+                  précise ou peuvent être inférieur, voir supérieur (Le programme actuel, ne fait pas le dinstingo). De plus 
+                  si dans calorie, il y a marqué '0' c'est que dans la table Ciqal de 2020 que j'ai utilisé cette valeur 
+                  n'était pas indiquée.
 
 ## Informations Supplémentaires
 
 Pour plus d'informations sur le programme, cliquez sur le bouton "Info" dans la fenêtre de démarrage. 
 
-**Source des données alimentaires** : [benchpresschampion.com](https://www.benchpresschampion.com/dietetique/Calories.pdf) (modifié avec ChatGPT 3.5)
+**Source des données alimentaires** : "https://www.data.gouv.fr/fr/datasets/table-de-composition-nutritionnelle-des-aliments-ciqual/"
 
 ## Contact
 
 Pour toute question ou suggestion, veuillez contacter `complexboy@outlook.fr`.
 
-En date du 22 Juillet 2024
+En date du 31 Juillet 2024
 
 
