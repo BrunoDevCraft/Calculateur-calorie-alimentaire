@@ -59,6 +59,11 @@ Il fournit une analyse détaillée des calories, protéines, glucides et lipides
 - **foods.txt** : Contient les informations nutritionnelles des aliments.
                   ATTENTION: En cours de conception, plusieurs sources différentes peuvent faire varier les résultats.
 
+                  Lorsque les valeurs sont 0.5 ou 0.85, référez-vous au 'listing aliment.txt' pour savoir si elles sont 
+                  précise ou peuvent être inférieur, voir supérieur (Le programme actuel, ne fait pas le dinstingo). De plus 
+                  si dans calorie, il y a marqué '0' c'est que dans la table Ciqal de 2020 que j'ai utilisé cette valeur 
+                  n'était pas indiquée.
+
 ## Informations Supplémentaires
 
 Pour plus d'informations sur le programme, cliquez sur le bouton "Info" dans la fenêtre de démarrage. 
