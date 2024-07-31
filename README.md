@@ -68,12 +68,13 @@ Il fournit une analyse détaillée des calories, protéines, glucides et lipides
 
 Pour plus d'informations sur le programme, cliquez sur le bouton "Info" dans la fenêtre de démarrage. 
 
-**Source des données alimentaires** : [benchpresschampion.com](https://www.benchpresschampion.com/dietetique/Calories.pdf) (modifié avec ChatGPT 3.5)
+**Source des données alimentaires** : 
+      "https://www.data.gouv.fr/fr/datasets/table-de-composition-nutritionnelle-des-aliments-ciqual/"
 
 ## Contact
 
 Pour toute question ou suggestion, veuillez contacter `complexboy@outlook.fr`.
 
-En date du 22 Juillet 2024
+En date du 31 Juillet 2024
 
 
