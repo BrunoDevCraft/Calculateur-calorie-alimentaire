@@ -5,6 +5,9 @@
 Ce programme est un calculateur de calories alimentaires qui permet aux utilisateurs de suivre leurs apports nutritionnels quotidiens en entrant les aliments consommés et leurs poids. 
 Il fournit une analyse détaillée des calories, protéines, glucides et lipides consommés.
 
+## Dépendances utiles
+Assurez-vous de posséder les bibliothèques suivantes: tkinter, ttkthemes.
+
 ## Principe de Fonctionnement
 
 1. **Fenêtre de Démarrage** : À l'exécution du programme, une fenêtre de démarrage apparaît, offrant les options suivantes :
