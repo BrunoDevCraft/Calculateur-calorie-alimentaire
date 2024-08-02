@@ -7,10 +7,11 @@ Il fournit une analyse détaillée des calories, protéines, glucides et lipides
 
 ## Dépendances utiles
 Assurez-vous de posséder les bibliothèques suivantes: python3, tkinter, ttkthemes.
-Sur Ubuntu: -> **vérifier la version de python**: python --version
-            -> **installer tkinter (pour la version 3.x de python. La version 3.x comprend les widgets ttk)**: 
+Sur Ubuntu: 
+- **vérifier la version de python**: python --version
+- **installer tkinter (pour la version 3.x de python. La version 3.x comprend les widgets ttk)**: 
                   sudo apt-get install python3-tk 
-            -> **installer ttkthemes**: python3 -m pip install git+https://github.com/RedFantom/ttkthemes
+- **installer ttkthemes**: python3 -m pip install git+https://github.com/RedFantom/ttkthemes
 
 ## Principe de Fonctionnement
 
